@@ -18,14 +18,14 @@ h2{
 h3{
     text-align: center;
     font-family: "Funnel Display", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: 500;
-    color: #ffffff;
+    color: #d0e8ff;
 }
 h4{
     text-align: center;
     font-family: "Funnel Display", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: 500;
     color: #a4b4fa;
 }
@@ -58,8 +58,15 @@ body{
     background-attachment: fixed; 
 }
 
+img{
+    margin: auto;
+    display: flex;
+    width: 500px;
+    padding: 20px 20px 20px;
+}
+
 .container-header{
-    padding: 50px;
+    padding: 50px 50px 25px;
 }
 
 .container-principles{
