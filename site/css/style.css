@@ -2,7 +2,8 @@ h1{
     text-align: center;
     font-family: "Stack Sans Notch", sans-serif;
     font-weight: 700;
-    font-size: 3rem
+    font-size: 3rem;
+    color: #ffffff;
 }
 h2{
     text-align: center;
@@ -10,10 +11,18 @@ h2{
     font-weight: 500;
     font-size: 1.5rem;
     font-style: italic;
+    color: #ffffff;
 }
 p{
     text-align: center;
     font-family: "Funnel Display", sans-serif;
+}
+body{
+    /* background: rgb(44, 43, 43); */
+    background-image: url("../img/dieter-rams-background-lowopacity.png");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed; 
 }
 
 .container-header{
